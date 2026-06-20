@@ -1,10 +1,10 @@
 # Hi 👋, I'm Rebecca Kamande
 
-### Software Developer | Python & Django Developer | Backend Engineer
+### Software Developer | Python & Django Developer | Backend Developer
 
 I'm a Software Developer passionate about building scalable backend applications and solving real-world problems through technology.
 
-I enjoy working with Python, Django, REST APIs, databases, and software architecture. My goal is to grow into a skilled backend engineer while continuously learning cloud technologies, cybersecurity, and AI-driven solutions.
+I enjoy working with Python, Django, REST APIs, databases, and software architecture. My goal is to grow into a skilled backend developer while continuously learning cloud technologies, cybersecurity, and AI-driven solutions.
 
 ---
 
