@@ -8,28 +8,26 @@ I enjoy working with Python, Django, REST APIs, databases, and software architec
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-🎓 Bachelor's Degree in Software Development at KCA University (2022–2026)
+ Bachelor's Degree in Software Development at KCA University (2022–2026)
 
-💻 Passionate about Backend Development and Software Engineering
+ Passionate about Backend Development and Software Engineering
 
-🐍 Building applications with Python and Django
+ Building applications with Python and Django
 
-📱 Learning Mobile Development with Java and Android
+ Learning Mobile Development with Java and Android
 
-🔒 Interested in Cybersecurity and Cloud Technologies
+ Interested in Cybersecurity and Cloud Technologies
 
-🌱 Currently learning:
+Currently learning:
 - Advanced Django
 - Backend Architecture
 - Cloud Deployment
 
-📫 Reach me at: **rebeccakamande53@gmail.com**
-
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 - Python
@@ -56,9 +54,9 @@ I enjoy working with Python, Django, REST APIs, databases, and software architec
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 📚 BookVerse
+###  BookVerse
 A book discovery and reading-tracking platform built with Django.
 
 #### Features
@@ -72,7 +70,7 @@ A book discovery and reading-tracking platform built with Django.
 
 ---
 
-### 🔍 Missing Persons Registry
+###  Missing Persons Registry
 A web-based system for reporting, managing, and tracking missing persons.
 
 #### Features
@@ -86,7 +84,7 @@ A web-based system for reporting, managing, and tracking missing persons.
 
 ---
 
-### ✅ To-Do Application
+###  To-Do Application
 A productivity application that allows users to manage tasks efficiently.
 
 #### Features
@@ -99,7 +97,7 @@ A productivity application that allows users to manage tasks efficiently.
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 
 - Cisco Introduction to Cybersecurity
 - CCNA Introduction to Networks
@@ -107,7 +105,7 @@ A productivity application that allows users to manage tasks efficiently.
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![Rebecca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rebeccakamande&show_icons=true)
 
@@ -115,7 +113,7 @@ A productivity application that allows users to manage tasks efficiently.
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 - LinkedIn: www.linkedin.com/in/rebecca-kamande-37a416247
 - GitHub: https://github.com/Rebeccakamande
